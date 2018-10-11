@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 title: Dinky theme
 description: Dinky is a red hot theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-dinky
+=======
+theme: jekyll-theme-cayman
+>>>>>>> dc831733a89289a053d0dd009f2ba3aacdbefd01
